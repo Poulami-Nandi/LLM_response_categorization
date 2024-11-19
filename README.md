@@ -93,8 +93,8 @@ The model achieves competitive results by leveraging transfer learning. Fine-tun
 ## How to Run
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo-name/llm-classification-finetuning.git
-cd llm-classification-finetuning
+git clone https://github.com/Poulami-Nandi/LLM_response_categorization.git
+cd LLM_response_categorization
 ```
 
 ### Install Dependencies
@@ -146,5 +146,5 @@ kaggle competitions submit -c llm-classification-finetuning -f submission.csv -m
 ## Contact
 For questions or collaboration opportunities, feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/poulami-nandi-a8a12917b)
+- **Email**: nandi.poulami91@gmail.com
